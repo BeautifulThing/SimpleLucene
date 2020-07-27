@@ -1,0 +1,9 @@
+## Fold-based
+target/
+out/
+.idea/*
+
+## File-based
+*.iws
+*.iml
+*.ipr
